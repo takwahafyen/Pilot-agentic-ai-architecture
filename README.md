@@ -10,7 +10,7 @@
 
 > **Notice of Proprietary Technology & Open Architecture Showcase**  
 > This public repository contains the **architectural design, interface specifications, and orchestration patterns** of the Agentic AI system powering **Pilot TN**, an enterprise educational platform in Tunisia.  
-> *To protect the commercial intellectual property of the startup, the core business engine, private database schemas, and Next.js frontend remain in a private enterprise repository. Full live interactive demonstrations and white-box code walkthroughs are conducted during technical interviews.*
+> *To protect the commercial intellectual property of the startup, the core business engine, private database schemas, and Next.js frontend remain in a private repository.*
 
 ---
 
@@ -118,4 +118,4 @@ All agent tools adhere to strict **Pydantic v2 validation**:
 
 Developed by **Takwa Hafyen** — AI & Software Engineer.  
 - GitHub: [takwahafyen](https://github.com/takwahafyen)  
-- Contact: Available on request for live interactive technical demonstrations.
+- Contact: takwa.hafyen@gmail.com
